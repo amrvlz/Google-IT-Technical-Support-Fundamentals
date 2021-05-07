@@ -1,5 +1,6 @@
-# Google-IT-Technical-Support-Fundamentals
-Course 1: Week 1
+# Google-IT-Technical-Support-Fundamentals Course 1
+
+Week 1
 
 https://www.notion.so/Introduction-to-IT-Support-86f6ed3cca3d4cb086fd0a57f8746fe3
 
